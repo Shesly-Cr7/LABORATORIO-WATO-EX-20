@@ -80,13 +80,15 @@ El sistema respiratorio de la máquina de anestesia es el encargado de transport
 
 ## Componentes principales
 
-* Tubos corrugados
-* Bolsa reservorio
-* Válvulas inspiratoria y espiratoria
-* Sensor de flujo
-* Sensor de O₂
-* Absorbedor de CO₂
-* Fuelle
+| Parte                     | Función              |
+| ------------------------- | -------------------- |
+| Tubos corrugados          | Transportan gases    |
+| Válvulas unidireccionales | Evitan flujo reverso |
+| Bolsa reservorio          | Almacena gas         |
+| Absorbedor de CO₂         | Elimina CO₂          |
+| Fuelle                    | Genera ventilación   |
+| Válvula APL               | Limita presión       |
+
 
 [2]
 
