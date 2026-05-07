@@ -201,7 +201,7 @@ El sistema de presión negativa o AGSS (Anesthetic Gas Scavenging System) elimin
 
 ---
 
-# Análisis de Resultados
+# Análisis
 
 Las principales fallas asociadas a las máquinas de anestesia suelen relacionarse con:
 
