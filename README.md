@@ -49,11 +49,13 @@ Disminuye el nivel de conciencia y ansiedad del paciente sin producir necesariam
 
 La máquina WATO EX-20 trabaja principalmente con gases medicinales y agentes anestésicos inhalatorios [1].
 
-| Gas                 | Función                              |
-| ------------------- | ------------------------------------ |
-| Oxígeno (O₂)        | Mantener la oxigenación del paciente |
-| Aire medicinal      | Mezcla respiratoria y ventilación    |
-| Óxido nitroso (N₂O) | Analgesia y apoyo anestésico         |
+| Gas                 | Función               |
+| ------------------- | --------------------- |
+| Oxígeno (O₂)        | Mantener oxigenación  |
+| Aire medicinal      | Mezcla respiratoria   |
+| Óxido nitroso (N₂O) | Anestésico/analgésico |
+| Agentes volátiles   | Inducen anestesia     |
+
 
 Los gases que ingresan mediante sistema de alta presión son principalmente el oxígeno y el óxido nitroso, debido a que provienen de cilindros comprimidos [2].
 
