@@ -48,6 +48,7 @@ Familiarizar al estudiante con los componentes, principios de funcionamiento y a
   <p align="center">
 <img width="350" height="300" alt="6008fc31-f278-4c41-9d8a-919b09ca1630" src="https://github.com/user-attachments/assets/301fb81e-fc57-48b1-8d38-b5d6d7d3422e" />
 </p>
+
 ## Anestesia general
 
 La anestesia general es un estado reversible de inconsciencia inducido farmacológicamente, en el cual el paciente pierde completamente la sensibilidad al dolor y la capacidad de responder a estímulos externos [3]. Este tipo de anestesia es utilizado principalmente en procedimientos quirúrgicos complejos o prolongados y requiere monitoreo continuo de signos vitales, ventilación y oxigenación mediante una máquina de anestesia [1].
