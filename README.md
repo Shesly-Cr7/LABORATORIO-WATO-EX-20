@@ -120,6 +120,8 @@ Los anestésicos más utilizados son:
 * Isoflurano
 * Desflurano
 
+<img width="394" height="280" alt="image" src="https://github.com/user-attachments/assets/175cd223-3ad8-4021-a934-3c110a519a0b" />
+
 Cada uno de estos agentes posee propiedades físico-químicas diferentes, razón por la cual requieren vaporizadores calibrados específicamente para cada sustancia [3].
 
 El vaporizador permite administrar concentraciones anestésicas precisas y seguras, evitando riesgos asociados a sobredosis o administración insuficiente del anestésico.
@@ -139,6 +141,8 @@ El sistema respiratorio de la máquina de anestesia es el encargado de transport
 * Sensor de flujo
 * Sensor de O₂
 * Fuelle
+
+<img width="611" height="724" alt="image" src="https://github.com/user-attachments/assets/f1994d2a-c5a0-40d0-9898-2916de69e0bc" />
 
 ---
 
@@ -185,6 +189,8 @@ La máquina WATO EX-20 incorpora diferentes modos ventilatorios que permiten ada
 | PCV    | Control de presión inspiratoria       |
 | SIMV   | Ventilación sincronizada              |
 | Manual | Ventilación mediante bolsa reservorio |
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0b9cb05e-ab24-43af-b707-2604e3742c27" />
 
 ---
 
