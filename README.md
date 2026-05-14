@@ -38,7 +38,14 @@ Familiarizar al estudiante con los componentes, principios de funcionamiento y a
 
 # Parte A
 
+
+
+
+
 # 1. Tipos de anestesia utilizados en cirugía
+
+
+<img width="1448" height="1086" alt="6008fc31-f278-4c41-9d8a-919b09ca1630" src="https://github.com/user-attachments/assets/301fb81e-fc57-48b1-8d38-b5d6d7d3422e" />
 
 ## Anestesia general
 
@@ -262,11 +269,17 @@ La ventilación mandatoria intermitente sincronizada permite combinar respiracio
 
 # 1. Partes principales de la máquina
 
+
+<img width="1448" height="1086" alt="b1c01eb4-9e52-4157-b048-bed4bb2367f5" src="https://github.com/user-attachments/assets/e7ede205-509e-4868-8b7c-0dee63d52d0e" />
+
 ## Vaporizador
 
 El vaporizador es el componente encargado de transformar anestésicos líquidos volátiles en vapor para ser administrados junto con los gases respiratorios [2]. En la WATO EX-20, permite controlar la concentración del agente anestésico que llega al paciente.
 
 Su importancia está en que una concentración incorrecta puede generar sobredosis anestésica, despertar intraoperatorio o depresión respiratoria [3]. Por eso debe revisarse que esté bien instalado, bloqueado y con el agente anestésico correcto.
+
+
+
 
 ---
 
