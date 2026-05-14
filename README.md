@@ -276,9 +276,8 @@ Finalmente, el mantenimiento preventivo y las pruebas de verificación previas a
 
 ---
 
-# Referencias IEEE
-
-[1]I. Nicolas, “WATO Service Manual EX-20_30_35 ESP,” Scribd. https://es.scribd.com/document/513671819/WATO-Service-Manual-EX-20-30-35-Esp
+# Referencias IEE
+[1] I. Nicolas, “WATO Service Manual EX-20_30_35 ESP,” Scribd. https://es.scribd.com/document/513671819/WATO-Service-Manual-EX-20-30-35-Esp
 
 [2] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., “WATO EX-20/30/35 Service Manual,” 2009.
 
