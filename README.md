@@ -16,6 +16,8 @@ En la actualidad, las estaciones modernas de anestesia cuentan con alarmas intel
 
 Por esta razón, resulta fundamental que el estudiante de ingeniería biomédica comprenda el funcionamiento básico de este tipo de equipos, identifique sus principales componentes y reconozca las posibles fallas que pueden comprometer la seguridad del paciente durante un procedimiento quirúrgico.
 
+<img width="305" height="319" alt="image" src="https://github.com/user-attachments/assets/28f328e9-1167-4121-b94b-d7db162f4ac9" />
+
 ---
 
 # Objetivos
