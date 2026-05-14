@@ -18,6 +18,9 @@ Por esta razón, resulta fundamental que el estudiante de ingeniería biomédica
 <p align="center">
 <img width="300" height="310" alt="image" src="https://github.com/user-attachments/assets/28f328e9-1167-4121-b94b-d7db162f4ac9" />
 </p>
+<p align="center">
+Figura 1.
+</p>
 
 ---
 
@@ -47,6 +50,9 @@ Familiarizar al estudiante con los componentes, principios de funcionamiento y a
 
   <p align="center">
 <img width="350" height="300" alt="6008fc31-f278-4c41-9d8a-919b09ca1630" src="https://github.com/user-attachments/assets/301fb81e-fc57-48b1-8d38-b5d6d7d3422e" />
+</p>
+ <p align="center">
+Figura 2.
 </p>
 
 ## Anestesia general
@@ -83,13 +89,6 @@ La sedación puede administrarse mediante medicamentos intravenosos utilizando b
 
 ---
 
-## Sedación
-
-La sedación consiste en disminuir el nivel de conciencia y ansiedad del paciente sin inducir necesariamente una pérdida completa de la conciencia [3]. Dependiendo de la profundidad de sedación, el paciente puede responder a estímulos verbales o táctiles.
-
-La sedación puede administrarse mediante medicamentos intravenosos utilizando bombas de infusión o mediante anestésicos inhalatorios.
-
----
 
 # 2. Gases utilizados por la máquina de anestesia
 
@@ -144,6 +143,9 @@ Los anestésicos más utilizados son:
 <p align="center">
 <img width="305" height="310" alt="image" src="https://github.com/user-attachments/assets/175cd223-3ad8-4021-a934-3c110a519a0b" />
 </p>
+<p align="center">
+Figura 3.
+</p>
 
 Cada uno de estos agentes posee propiedades físico-químicas diferentes, razón por la cual requieren vaporizadores calibrados específicamente para cada sustancia [3].
 
@@ -164,11 +166,17 @@ En la WATO EX-20, este sistema trabaja en conjunto con el ventilador anestésico
   <p align="center">
   <img width="300" height="320" alt="image" src="https://github.com/user-attachments/assets/6d242990-e16d-493f-a382-27f77d54a447" />
 </p>
+<p align="center">
+Figura 4.
+</p>
 
 * Bolsa reservorio o bolsa manual
  
 <p align="center">
   <img width="300" height="320" alt="image" src="https://github.com/user-attachments/assets/75d47b7b-4a8d-4c9c-ba0a-f5a0920ad1c5" />
+</p>
+<p align="center">
+Figura 4.
 </p>
 
 * Válvulas unidireccionales inspiratoria y espiratoria
@@ -176,31 +184,71 @@ En la WATO EX-20, este sistema trabaja en conjunto con el ventilador anestésico
 <p align="center">
   <img width="296" height="185" alt="image" src="https://github.com/user-attachments/assets/2e25ce4c-392c-42af-a759-a860dde2fedc" />
 </p>
+<p align="center">
+Figura 5.
+</p>
 
 * Absorbedor de CO₂
 
 <p align="center">
   <img width="340" height="310" alt="image" src="https://github.com/user-attachments/assets/71daa47b-1cd6-4be1-be3f-9b2d70bffd6d" />
 </p> 
+<p align="center">
+Figura 6.
+</p>
 
 * Sensor de flujo
 <p align="center">
   <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/ebcb671d-9aa7-47a7-b0eb-0c55b5c7e7de" />
 </p>
+<p align="center">
+Figura 7.
+</p>
 
 * Sensor de O₂
+  
+<p align="center">
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1b5ffcf8-39a8-4145-af32-04c4795c1a91" />
+</p>
+<p align="center">
+Figura 8.
+</p>
+  
 * Válvula APL
+
+<p align="center">
+ <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/bab75912-d1f9-4336-923c-0a53aca8d216" />
+</p>
+<p align="center">
+Figura 9.
+</p>
+
 * Indicador de presión de vía aérea
+
+<p align="center">
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/641b39b5-c802-4100-963e-01c8859501f5" />
+</p>
+<p align="center">
+Figura 10.
+</p>
+
 * Fuelle
   
 <p align="center">
   <img width="310" height="300" alt="image" src="https://github.com/user-attachments/assets/e090c955-026a-4ce2-8891-181477f23b29" />
 </p>
+<p align="center">
+Figura 11.
+</p>
   
   
 <p align="center">
 <img width="305" height="310" alt="image" src="https://github.com/user-attachments/assets/f1994d2a-c5a0-40d0-9898-2916de69e0bc" />
+  </p>
+<p align="center">
+Figura 12. Esquema Principal
 </p>
+
 
 ---
 
@@ -249,6 +297,9 @@ Las bombas peristálticas lineales y rotativas funcionan comprimiendo una mangue
 
 <p align="center">
 <img width="305" height="310" alt="image" src="https://github.com/user-attachments/assets/33c1a995-cea2-4a7e-8a1d-e3c35c8fcbb8" />
+</p>
+<p align="center">
+Figura 13.
 </p>
 
 ---
@@ -299,6 +350,9 @@ La máquina WATO EX-20 incorpora diferentes modos ventilatorios que permiten ada
 <p align="center">
 <img width="500" height="310" alt="image" src="https://github.com/user-attachments/assets/0b9cb05e-ab24-43af-b707-2604e3742c27" />
 </p>
+<p align="center">
+Figura 14.
+</p>
 
 ---
 
@@ -322,10 +376,14 @@ La ventilación mandatoria intermitente sincronizada permite combinar respiracio
 
 # Parte B
 
-# 1. Partes principales de la máquina
+# 1. Descripción de las partes principales de la máquina
 
-
+<p align="center">
 <img width="400" height="320" alt="b1c01eb4-9e52-4157-b048-bed4bb2367f5" src="https://github.com/user-attachments/assets/e7ede205-509e-4868-8b7c-0dee63d52d0e" />
+</p>
+<p align="center">
+Figura 15.
+</p>
 
 ## Vaporizador
 
