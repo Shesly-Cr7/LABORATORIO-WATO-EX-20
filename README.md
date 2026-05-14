@@ -247,6 +247,10 @@ Sin embargo, en la WATO EX-20 no se está infundiendo un líquido por vía intra
 
 Las bombas peristálticas lineales y rotativas funcionan comprimiendo una manguera flexible para mover líquidos. En cambio, el fuelle de la WATO EX-20 desplaza gases dentro del circuito respiratorio.
 
+<p align="center">
+<img width="305" height="310" alt="image" src="https://github.com/user-attachments/assets/33c1a995-cea2-4a7e-8a1d-e3c35c8fcbb8" />
+</p>
+
 ---
 
 ## Posibles fallas asociadas al fuelle
@@ -295,6 +299,7 @@ La máquina WATO EX-20 incorpora diferentes modos ventilatorios que permiten ada
 <p align="center">
 <img width="500" height="310" alt="image" src="https://github.com/user-attachments/assets/0b9cb05e-ab24-43af-b707-2604e3742c27" />
 </p>
+
 ---
 
 ## Ventilación controlada por volumen (VCV)
