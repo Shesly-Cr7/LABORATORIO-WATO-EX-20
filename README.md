@@ -8,15 +8,16 @@
 
 ## Introducción
 
-Las máquinas de anestesia constituyen uno de los equipos biomédicos más importantes dentro de los entornos quirúrgicos, ya que permiten mantener al paciente en un estado controlado de inconsciencia, analgesia y relajación muscular durante un procedimiento médico [1]. Además de administrar anestesia, estos sistemas son responsables de garantizar funciones vitales como la ventilación mecánica y el suministro adecuado de oxígeno, convirtiéndose en equipos críticos de soporte vital [2].
+Las máquinas de anestesia constituyen uno de los equipos biomédicos más importantes dentro de los entornos quirúrgicos, ya que permiten mantener al paciente en un estado controlado de inconsciencia, analgesia y relajación muscular durante un procedimiento médico [1]. Además de administrar anestesia, estos sistemas son responsables de garantizar funciones vitales como la ventilación mecánica y el suministro adecuado de oxígeno, convirtiéndose en equipos críticos de soporte vital [2][3].
 
-La máquina de anestesia WATO EX-20 integra diferentes subsistemas neumáticos, electrónicos y mecánicos que trabajan de forma conjunta para suministrar mezclas precisas de gases medicinales y agentes anestésicos inhalatorios [1]. Entre sus componentes principales se encuentran el ventilador mecánico, vaporizadores, válvulas de control, absorbedor de CO₂, sensores y sistemas de monitoreo continuo [3].
+La máquina de anestesia WATO EX-20 integra diferentes subsistemas neumáticos, electrónicos y mecánicos que trabajan de forma conjunta para suministrar mezclas precisas de gases medicinales y agentes anestésicos inhalatorios [1]. Entre sus componentes principales se encuentran el ventilador mecánico, vaporizadores, válvulas de control, absorbedor de CO₂, sensores y sistemas de monitoreo continuo [4].
 
 En la actualidad, las estaciones modernas de anestesia cuentan con alarmas inteligentes y sistemas de seguridad que han permitido reducir considerablemente los eventos adversos relacionados con hipoxia, errores en la administración anestésica y fallas ventilatorias [4]. Sin embargo, el correcto funcionamiento de estos equipos depende no solo de la tecnología implementada, sino también del adecuado mantenimiento preventivo y del conocimiento técnico por parte del personal biomédico y clínico [2].
 
 Por esta razón, resulta fundamental que el estudiante de ingeniería biomédica comprenda el funcionamiento básico de este tipo de equipos, identifique sus principales componentes y reconozca las posibles fallas que pueden comprometer la seguridad del paciente durante un procedimiento quirúrgico.
-
-<img width="305" height="319" alt="image" src="https://github.com/user-attachments/assets/28f328e9-1167-4121-b94b-d7db162f4ac9" />
+<p align="center">
+<img width="300" height="310" alt="image" src="https://github.com/user-attachments/assets/28f328e9-1167-4121-b94b-d7db162f4ac9" />
+</p>
 
 ---
 
@@ -44,9 +45,9 @@ Familiarizar al estudiante con los componentes, principios de funcionamiento y a
 
 # 1. Tipos de anestesia utilizados en cirugía
 
-
-<img width="1448" height="1086" alt="6008fc31-f278-4c41-9d8a-919b09ca1630" src="https://github.com/user-attachments/assets/301fb81e-fc57-48b1-8d38-b5d6d7d3422e" />
-
+  <p align="center">
+<img width="350" height="300" alt="6008fc31-f278-4c41-9d8a-919b09ca1630" src="https://github.com/user-attachments/assets/301fb81e-fc57-48b1-8d38-b5d6d7d3422e" />
+</p>
 ## Anestesia general
 
 La anestesia general es un estado reversible de inconsciencia inducido farmacológicamente, en el cual el paciente pierde completamente la sensibilidad al dolor y la capacidad de responder a estímulos externos [3]. Este tipo de anestesia es utilizado principalmente en procedimientos quirúrgicos complejos o prolongados y requiere monitoreo continuo de signos vitales, ventilación y oxigenación mediante una máquina de anestesia [1].
@@ -57,7 +58,7 @@ Durante la anestesia general, la máquina administra mezclas controladas de gase
 
 ## Anestesia regional
 
-La anestesia regional consiste en bloquear la conducción nerviosa de una zona específica del cuerpo mediante anestésicos locales aplicados cerca de nervios o médula espinal [3]. En este caso, el paciente puede permanecer consciente, aunque sin sensibilidad en la región intervenida.
+La anestesia regional consiste en bloquear la conducción nerviosa de una zona específica del cuerpo mediante anestésicos locales aplicados cerca de nervios o médula espinal [3]. En este caso, el paciente puede permanecer consciente, aunque sin sensibilidad en la región intervenida [5].
 
 Entre las técnicas más utilizadas se encuentran:
 
@@ -69,7 +70,15 @@ Entre las técnicas más utilizadas se encuentran:
 
 ## Anestesia local
 
-La anestesia local se utiliza para bloquear únicamente una pequeña región del cuerpo, generalmente en procedimientos menores y de corta duración [3]. Este tipo de anestesia no afecta el estado de conciencia del paciente y suele emplearse en odontología, suturas y procedimientos ambulatorios.
+La anestesia local se utiliza para bloquear únicamente una pequeña región del cuerpo, generalmente en procedimientos menores y de corta duración [5]. Este tipo de anestesia no afecta el estado de conciencia del paciente y suele emplearse en odontología, suturas y procedimientos ambulatorios.
+
+---
+
+## Sedación
+
+La sedación consiste en disminuir el nivel de conciencia y ansiedad del paciente sin inducir necesariamente una pérdida completa de la conciencia. Dependiendo de la profundidad de sedación, el paciente puede responder a estímulos verbales o táctiles[5].
+
+La sedación puede administrarse mediante medicamentos intravenosos utilizando bombas de infusión o mediante anestésicos inhalatorios.
 
 ---
 
@@ -85,11 +94,15 @@ La sedación puede administrarse mediante medicamentos intravenosos utilizando b
 
 La máquina de anestesia WATO EX-20 utiliza diferentes gases medicinales que cumplen funciones esenciales en la ventilación y anestesia del paciente [1].
 
+<div align="center">
+
 | Gas                 | Función                           |
 | ------------------- | --------------------------------- |
 | Oxígeno (O₂)        | Mantener oxigenación del paciente |
 | Aire medicinal      | Complementar mezcla respiratoria  |
 | Óxido nitroso (N₂O) | Analgesia y apoyo anestésico      |
+
+</div>
 
 ---
 
@@ -127,7 +140,9 @@ Los anestésicos más utilizados son:
 * Isoflurano
 * Desflurano
 
-<img width="394" height="280" alt="image" src="https://github.com/user-attachments/assets/175cd223-3ad8-4021-a934-3c110a519a0b" />
+<p align="center">
+<img width="305" height="310" alt="image" src="https://github.com/user-attachments/assets/175cd223-3ad8-4021-a934-3c110a519a0b" />
+</p>
 
 Cada uno de estos agentes posee propiedades físico-químicas diferentes, razón por la cual requieren vaporizadores calibrados específicamente para cada sustancia [3].
 
@@ -144,16 +159,47 @@ En la WATO EX-20, este sistema trabaja en conjunto con el ventilador anestésico
 ## Componentes principales
 
 * Tubos corrugados
+  
+  <p align="center">
+  <img width="300" height="320" alt="image" src="https://github.com/user-attachments/assets/6d242990-e16d-493f-a382-27f77d54a447" />
+</p>
+
 * Bolsa reservorio o bolsa manual
+ 
+<p align="center">
+  <img width="300" height="320" alt="image" src="https://github.com/user-attachments/assets/75d47b7b-4a8d-4c9c-ba0a-f5a0920ad1c5" />
+</p>
+
 * Válvulas unidireccionales inspiratoria y espiratoria
+
+<p align="center">
+  <img width="296" height="185" alt="image" src="https://github.com/user-attachments/assets/2e25ce4c-392c-42af-a759-a860dde2fedc" />
+</p>
+
 * Absorbedor de CO₂
+
+<p align="center">
+  <img width="340" height="310" alt="image" src="https://github.com/user-attachments/assets/71daa47b-1cd6-4be1-be3f-9b2d70bffd6d" />
+</p> 
+
 * Sensor de flujo
+<p align="center">
+  <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/ebcb671d-9aa7-47a7-b0eb-0c55b5c7e7de" />
+</p>
+
 * Sensor de O₂
 * Válvula APL
 * Indicador de presión de vía aérea
 * Fuelle
-
-<img width="611" height="724" alt="image" src="https://github.com/user-attachments/assets/f1994d2a-c5a0-40d0-9898-2916de69e0bc" />
+  
+<p align="center">
+  <img width="310" height="300" alt="image" src="https://github.com/user-attachments/assets/e090c955-026a-4ce2-8891-181477f23b29" />
+</p>
+  
+  
+<p align="center">
+<img width="305" height="310" alt="image" src="https://github.com/user-attachments/assets/f1994d2a-c5a0-40d0-9898-2916de69e0bc" />
+</p>
 
 ---
 
@@ -190,8 +236,6 @@ Por lo tanto, la clasificación más adecuada sería:
 **Función:** ventilar al paciente durante la anestesia.  
 **No corresponde a:** bomba peristáltica lineal ni bomba peristáltica rotativa.
 
-
----
 ---
 
 ## Diferencia con las bombas de infusión
@@ -236,15 +280,20 @@ Sin embargo, sensores electrónicos y componentes eléctricos no deben esteriliz
 
 La máquina WATO EX-20 incorpora diferentes modos ventilatorios que permiten adaptarse a las necesidades clínicas del paciente [1].
 
+<div align="center">
+  
 | Modo   | Descripción                           |
 | ------ | ------------------------------------- |
 | VCV    | Control de volumen tidal              |
 | PCV    | Control de presión inspiratoria       |
 | SIMV   | Ventilación sincronizada              |
 | Manual | Ventilación mediante bolsa reservorio |
+  
+</div>
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0b9cb05e-ab24-43af-b707-2604e3742c27" />
-
+<p align="center">
+<img width="500" height="310" alt="image" src="https://github.com/user-attachments/assets/0b9cb05e-ab24-43af-b707-2604e3742c27" />
+</p>
 ---
 
 ## Ventilación controlada por volumen (VCV)
@@ -270,7 +319,7 @@ La ventilación mandatoria intermitente sincronizada permite combinar respiracio
 # 1. Partes principales de la máquina
 
 
-<img width="1448" height="1086" alt="b1c01eb4-9e52-4157-b048-bed4bb2367f5" src="https://github.com/user-attachments/assets/e7ede205-509e-4868-8b7c-0dee63d52d0e" />
+<img width="400" height="320" alt="b1c01eb4-9e52-4157-b048-bed4bb2367f5" src="https://github.com/user-attachments/assets/e7ede205-509e-4868-8b7c-0dee63d52d0e" />
 
 ## Vaporizador
 
@@ -387,19 +436,19 @@ Finalmente, el mantenimiento preventivo y las pruebas antes del uso permiten dis
 
 ---
 
-# Referencias IEEE
+# Referencias 
 
-[1] I. Nicolas, “WATO Service Manual EX-20_30_35 ESP,” Scribd. https://es.scribd.com/document/513671819/WATO-Service-Manual-EX-20-30-35-Esp
+[1] V. I. S. Hospitalarias, “WATO-EX-20 ESP.pdf,” Scribd. https://es.scribd.com/document/634103879/WATO-EX-20-esp-pdf
 
-[2] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., “WATO EX-20/30/35 Service Manual,” 2009.
+[2] I. Nicolas, “WATO Service Manual EX-20_30_35 ESP,” Scribd. https://es.scribd.com/document/513671819/WATO-Service-Manual-EX-20-30-35-Esp
 
-[3] M. P. Dosch, *The Anesthesia Machine*. Philadelphia, USA: Elsevier Health Sciences, 2005.
+[3] Anesthesia Patient Safety Foundation, “Cuando los estándares de los equipos médicos no protegen a los pacientes - Anesthesia Patient Safety Foundation,” Anesthesia Patient Safety Foundation, Oct. 01, 2021. https://www.apsf.org/es/article/cuando-los-estandares-de-los-equipos-medicos-no-protegen-a-los-pacientes/
 
-[4] M. A. Sherwin and J. B. Eisenkraft, “Anesthesia hazards: What is the role of the anesthesia machine?,” *International Anesthesiology Clinics*, vol. 58, no. 1, pp. 27–31, 2020.
+[4] “La importancia del mantenimiento preventivo en las máquinas de anestesia.” https://blog.biomedicaenlinea.com/blog/mantenimiento-anestesia-importancia
 
-[5] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., “WATO EX-20 Technical Specifications,” 2022.
+[5] Anesthesia Patient Safety Foundation, “What are the Types of Anesthesia? - Anesthesia Patient Safety Foundation,” Anesthesia Patient Safety Foundation, Feb. 28, 2025. https://www.apsf.org/patient-guide/what-are-the-types-of-anesthesia/
 
 [6] E. J. Argüello-Prada, “Instrumentación Biomédica y Biosensores, Clase 12: Bombas de infusión,” Universidad Militar Nueva Granada, 2026.
 
 [7] U.S. Food and Drug Administration, “What Is an Infusion Pump?,” FDA, 2017. https://www.fda.gov/medical-devices/infusion-pumps/what-infusion-pump
-[1]: [https://es.scribd.com/document/513671819/WATO-Service-Manual-EX-20-30-35-Esp]
+
