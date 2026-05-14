@@ -4,7 +4,7 @@
 
 - Shesly Colorado 5600756
 - Santiago Mora 5600775
-- Daniel Herrera 5600
+- Daniel Herrera 5600588
 
 ## Introducción
 
