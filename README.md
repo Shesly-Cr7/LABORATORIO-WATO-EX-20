@@ -294,4 +294,5 @@ Finalmente, el mantenimiento preventivo y las pruebas de verificación previas a
 [5] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., “WATO EX-20 Technical Specifications,” 2022.
 
 
-[1]: https://www.scribd.com/document/703777628/Maquina-Wato-EX-20-30-35-Manual-de-Serv?utm_source=chatgpt.com "Maquina Wato EX 20-30-35 Manual de Serv | PDF | Valve"
+[1]: [https://www.scribd.com/document/703777628/Maquina-Wato-EX-20-30-35-Manual-de-Serv?utm_source=chatgpt.com "Maquina Wato EX 20-30-35 Manual de Serv | PDF | Valve"](https://es.scribd.com/document/513671819/WATO-Service-Manual-EX-20-30-35-Esp
+)
