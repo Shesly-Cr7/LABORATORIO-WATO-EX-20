@@ -130,40 +130,85 @@ El vaporizador permite administrar concentraciones anestésicas precisas y segur
 
 # 4. Sistema respiratorio
 
-El sistema respiratorio de la máquina de anestesia es el encargado de transportar los gases inspirados y espirados entre la máquina y el paciente [2]. Además, permite controlar la ventilación mecánica y eliminar el dióxido de carbono exhalado.
+El sistema respiratorio de la máquina de anestesia es el encargado de transportar los gases inspirados y espirados entre la máquina y el paciente [2]. Además, permite controlar la ventilación manual o mecánica, administrar la mezcla de gases anestésicos y eliminar el dióxido de carbono exhalado.
+
+En la WATO EX-20, este sistema trabaja en conjunto con el ventilador anestésico, el vaporizador, el absorbedor de CO₂, la bolsa reservorio, las válvulas unidireccionales y el fuelle, con el fin de mantener una ventilación segura durante el procedimiento quirúrgico.
 
 ## Componentes principales
 
 * Tubos corrugados
-* Bolsa reservorio
-* Válvulas unidireccionales
+* Bolsa reservorio o bolsa manual
+* Válvulas unidireccionales inspiratoria y espiratoria
 * Absorbedor de CO₂
 * Sensor de flujo
 * Sensor de O₂
+* Válvula APL
+* Indicador de presión de vía aérea
 * Fuelle
 
 <img width="611" height="724" alt="image" src="https://github.com/user-attachments/assets/f1994d2a-c5a0-40d0-9898-2916de69e0bc" />
 
 ---
 
+## Funcionamiento general
+
+Durante la ventilación, la máquina suministra una mezcla de gases medicinales, como oxígeno, aire y óxido nitroso, junto con el agente anestésico vaporizado. Esta mezcla llega al sistema respiratorio y posteriormente es dirigida hacia el paciente.
+
+En la inspiración, el ventilador anestésico impulsa la mezcla gaseosa hacia los pulmones. En la espiración, el gas exhalado por el paciente retorna al sistema respiratorio, pasando por el absorbedor de CO₂ para retirar el dióxido de carbono antes de que parte del gas pueda recircular nuevamente.
+
+Este proceso permite mantener la oxigenación, controlar la ventilación y reducir la reinhalación de CO₂ durante el procedimiento anestésico.
+
+---
 ## Absorbedor de CO₂
 
 El absorbedor contiene cal sodada, una sustancia química encargada de eliminar el dióxido de carbono exhalado por el paciente [2]. Esto evita la reinhalación de CO₂ y disminuye el riesgo de hipercapnia y acidosis respiratoria.
 
-Cuando la cal sodada pierde efectividad, suele producirse un cambio de color que indica la necesidad de reemplazo.
+Cuando la cal sodada pierde efectividad, suele producirse un cambio de color que indica la necesidad de reemplazo. Por esta razón, el estado del absorbente debe revisarse antes y durante el uso de la máquina.
+
 
 ---
 
-## Fuelle
+## Fuelle y sistema de bombeo
 
 El fuelle forma parte del ventilador mecánico y se encarga de expandirse y comprimirse para generar ventilación artificial [1]. Su movimiento permite identificar visualmente si el sistema respiratorio está funcionando correctamente.
 
-La ausencia de movimiento o colapso del fuelle puede indicar:
+En la WATO EX-20, el sistema que cumple la función de “bomba” no corresponde a una bomba de infusión intravenosa, ya que no administra líquidos, medicamentos ni nutrientes directamente al paciente. En este caso, el mecanismo de bombeo está relacionado con el ventilador anestésico y el fuelle, los cuales desplazan gases hacia el circuito respiratorio.
 
-* fugas
-* desconexión del paciente
-* problemas de presión
-* fallas ventilatorias
+Por su principio de funcionamiento, este sistema puede describirse como una bomba de desplazamiento positivo neumática tipo fuelle, debido a que desplaza un volumen de gas hacia el paciente mediante el movimiento del fuelle. Este desplazamiento permite que la mezcla de oxígeno, aire, óxido nitroso y anestésico llegue a los pulmones durante la ventilación mecánica.
+
+Por lo tanto, la clasificación más adecuada sería:
+
+**Tipo de bomba:** bomba de desplazamiento positivo neumática tipo fuelle.  
+**Fluido que desplaza:** gases anestésicos y gases medicinales.  
+**Función:** ventilar al paciente durante la anestesia.  
+**No corresponde a:** bomba peristáltica lineal ni bomba peristáltica rotativa.
+
+
+---
+---
+
+## Diferencia con las bombas de infusión
+
+Las bombas de infusión se utilizan para administrar fluidos, medicamentos o nutrientes al paciente de forma controlada. Dentro de estas se encuentran las bombas de desplazamiento positivo, las bombas peristálticas lineales y las bombas peristálticas rotativas.
+
+Sin embargo, en la WATO EX-20 no se está infundiendo un líquido por vía intravenosa, sino que se está impulsando una mezcla gaseosa hacia el sistema respiratorio. Por esta razón, no se debe describir como una bomba de infusión convencional, sino como un sistema neumático de desplazamiento positivo asociado al ventilador y al fuelle.
+
+Las bombas peristálticas lineales y rotativas funcionan comprimiendo una manguera flexible para mover líquidos. En cambio, el fuelle de la WATO EX-20 desplaza gases dentro del circuito respiratorio.
+
+---
+
+## Posibles fallas asociadas al fuelle
+
+La ausencia de movimiento, el colapso o un movimiento irregular del fuelle puede indicar problemas en el sistema respiratorio. Algunas posibles causas son:
+
+* Fugas en el circuito respiratorio
+* Desconexión del paciente
+* Problemas de presión
+* Fallas ventilatorias
+* Obstrucciones en el sistema
+* Fallas en el ventilador anestésico
+
+Por esta razón, el fuelle no solo cumple una función mecánica, sino que también sirve como una referencia visual importante para verificar si la ventilación se está realizando correctamente.
 
 ---
 
@@ -171,11 +216,12 @@ La ausencia de movimiento o colapso del fuelle puede indicar:
 
 Algunas partes removibles del sistema respiratorio pueden esterilizarse mediante autoclave, tales como:
 
-* tubos respiratorios
-* bolsa reservorio
-* conexiones removibles
+* Tubos respiratorios
+* Bolsa reservorio
+* Conexiones removibles
+* Algunas válvulas o piezas desmontables del sistema respiratorio
 
-Sin embargo, sensores electrónicos y componentes eléctricos no deben esterilizarse mediante altas temperaturas debido al riesgo de daño permanente [2].
+Sin embargo, sensores electrónicos y componentes eléctricos no deben esterilizarse mediante altas temperaturas debido al riesgo de daño permanente [2]. Por eso, antes de realizar limpieza o esterilización, se debe diferenciar entre las piezas mecánicas removibles y los componentes electrónicos del equipo.
 
 ---
 
@@ -218,80 +264,129 @@ La ventilación mandatoria intermitente sincronizada permite combinar respiracio
 
 ## Vaporizador
 
-El vaporizador es el componente encargado de transformar anestésicos líquidos volátiles en vapor para ser administrados junto con los gases respiratorios [2]. Este dispositivo permite controlar de manera precisa la concentración anestésica suministrada al paciente.
+El vaporizador es el componente encargado de transformar anestésicos líquidos volátiles en vapor para ser administrados junto con los gases respiratorios [2]. En la WATO EX-20, permite controlar la concentración del agente anestésico que llega al paciente.
 
-Una mala calibración del vaporizador puede ocasionar:
-
-* sobredosis anestésica
-* despertar intraoperatorio
-* depresión respiratoria
+Su importancia está en que una concentración incorrecta puede generar sobredosis anestésica, despertar intraoperatorio o depresión respiratoria [3]. Por eso debe revisarse que esté bien instalado, bloqueado y con el agente anestésico correcto.
 
 ---
 
 ## Válvula APL
 
-La válvula APL (Adjustable Pressure Limiting) regula la presión máxima dentro del circuito respiratorio durante ventilación manual [1].
+La válvula APL regula la presión máxima del circuito respiratorio durante la ventilación manual [1]. Cuando la presión supera el límite ajustado, permite liberar el exceso de gas.
 
-Su principal función es proteger al paciente contra:
-
-* sobrepresión pulmonar
-* barotrauma
-* daño alveolar
+Su función principal es proteger al paciente de sobrepresión pulmonar, barotrauma y daño alveolar. Si queda demasiado cerrada, puede aumentar mucho la presión; si queda muy abierta, puede dificultar la ventilación manual.
 
 ---
 
 ## Recipiente absorbente de CO₂
 
-Este recipiente contiene cal sodada utilizada para absorber el dióxido de carbono exhalado por el paciente [2]. Su correcto funcionamiento resulta esencial para prevenir reinhalación de CO₂.
+El recipiente absorbente de CO₂ contiene cal sodada, encargada de eliminar el dióxido de carbono exhalado por el paciente [2]. Esto evita que el paciente vuelva a inhalar CO₂ y reduce el riesgo de hipercapnia y acidosis respiratoria.
+
+Debe revisarse antes del uso y reemplazarse cuando el absorbente cambie de color, esté agotado, húmedo, endurecido o cuando se evidencie aumento del CO₂ inspirado.
+
+---
+
+## Fuelle
+
+El fuelle forma parte del ventilador anestésico y permite desplazar la mezcla de gases hacia el paciente durante la ventilación mecánica [1], [2]. Su movimiento permite verificar visualmente si la ventilación está funcionando.
+
+La ausencia de movimiento o el colapso del fuelle puede indicar fugas, desconexión del paciente, problemas de presión u obstrucciones en el circuito respiratorio.
+
+### Relación con el tipo de bomba
+
+En la WATO EX-20, el sistema que cumple la función de “bomba” no es una bomba de infusión intravenosa, ya que no administra líquidos ni medicamentos directamente al paciente. En este caso, el bombeo lo realiza el ventilador anestésico junto con el fuelle, desplazando gases hacia el circuito respiratorio [1], [2].
+
+Por su funcionamiento, puede clasificarse como una bomba de desplazamiento positivo neumática tipo fuelle, porque desplaza un volumen de gas hacia el paciente. No corresponde a una bomba peristáltica lineal ni rotativa, ya que estas se usan principalmente para mover líquidos por medio de una manguera flexible [6], [7].
+
+**Tipo de bomba:** desplazamiento positivo neumática tipo fuelle.  
+**Fluido que desplaza:** gases anestésicos y medicinales.  
+**Función:** ventilar al paciente durante la anestesia.
 
 ---
 
 ## Sistema AGSS
 
-El sistema de evacuación de gases anestésicos (AGSS) elimina gases anestésicos residuales del entorno quirúrgico [2]. Esto protege al personal médico frente a exposición prolongada a sustancias anestésicas.
+El sistema AGSS elimina los gases anestésicos residuales del circuito respiratorio y los conduce hacia un sistema de evacuación [2]. Su función es proteger al personal de salud frente a la exposición prolongada a vapores anestésicos.
+
+Este sistema se relaciona con la presión negativa, ya que requiere succión controlada para retirar los gases de desecho sin afectar la ventilación del paciente.
+
+---
+
+# 2. Acción frente al mensaje “batería en uso”
+
+Si aparece el mensaje “batería en uso” con el paciente conectado, se debe verificar inmediatamente la conexión eléctrica del equipo [2]. Se revisa el cable de alimentación, la toma de corriente y el indicador de energía.
+
+Si el problema continúa, debe mantenerse vigilancia constante del paciente y preparar ventilación manual con bolsa reservorio o un sistema alterno, mientras se informa al personal encargado o al área de ingeniería biomédica [1], [2].
+
+---
+
+# 3. Frecuencia de reemplazo del recipiente absorbente de CO₂
+
+El recipiente absorbente debe reemplazarse cuando la cal sodada pierda su capacidad de absorción. Esto puede identificarse por cambio de color, aumento del CO₂ inspirado, humedad, endurecimiento o vencimiento del material [2].
+
+No se debe esperar a que todo el absorbente cambie de color. Lo adecuado es revisarlo antes de cada procedimiento y cambiarlo si existe duda sobre su estado.
+
+---
+
+# 4. Procedimiento para verificar fuga en el cilindro de alta presión
+
+Para verificar una fuga en el cilindro de alta presión, se debe comprobar que el cilindro esté bien instalado, cerrar los controles de flujo, abrir lentamente la válvula del cilindro y observar el manómetro [2].
+
+Luego se cierra la válvula del cilindro y se revisa si la presión disminuye. Si la presión cae, puede existir una fuga en el cilindro, conexión o regulador, por lo que el equipo no debe utilizarse hasta ser revisado por personal autorizado [1], [2].
+
+---
+
+# 5. Influencia del sensor de O₂ en la prueba del sistema de control de flujo
+
+Sí influye. Cuando la máquina cuenta con sensor de O₂, se puede verificar directamente la concentración de oxígeno en la mezcla de gases [2]. Esto aumenta la seguridad porque ayuda a detectar mezclas hipóxicas o fallas en el suministro.
+
+Sin sensor de O₂, la prueba depende más de los caudalímetros y controles de flujo, pero no se confirma directamente la concentración real de oxígeno entregada al paciente.
+
+---
+
+# 6. Función del sistema de presión negativa
+
+El sistema de presión negativa se requiere para evacuar los gases anestésicos residuales mediante el sistema AGSS [2]. Su función es evitar que estos gases se acumulen en el ambiente quirúrgico.
+
+Esto protege al personal de salud y mantiene un entorno más seguro durante el procedimiento. La succión debe ser controlada para retirar gases de desecho sin alterar la ventilación del paciente.
 
 ---
 
 # Análisis de Resultados
 
-Las principales fallas asociadas a máquinas de anestesia suelen relacionarse con:
+Las principales fallas asociadas a la WATO EX-20 pueden relacionarse con fugas neumáticas, fallas en sensores, agotamiento del absorbente de CO₂, problemas eléctricos, errores de configuración, fallas del vaporizador o fallas ventilatorias [1], [2].
 
-* fugas neumáticas
-* fallas de sensores
-* agotamiento del absorbente de CO₂
-* problemas eléctricos
-* errores de configuración
-* fallas ventilatorias
+Estas fallas pueden comprometer la seguridad del paciente, especialmente si afectan la oxigenación, la ventilación, la presión del circuito o la administración correcta del anestésico [4].
 
-Muchas de estas fallas pueden comprometer directamente la seguridad del paciente, especialmente aquellas relacionadas con hipoxia, ventilación inadecuada o administración incorrecta de anestesia [4].
-
-Por esta razón, las pruebas de funcionamiento y el mantenimiento preventivo constituyen actividades fundamentales dentro de la gestión biomédica hospitalaria.
+Por esta razón, las pruebas preoperatorias, la revisión del sistema respiratorio y el mantenimiento preventivo son fundamentales para reducir riesgos clínicos y técnicos.
 
 ---
 
 # Conclusiones
 
-La máquina de anestesia WATO EX-20 es un equipo biomédico de soporte vital diseñado para garantizar ventilación, oxigenación y administración controlada de anestesia durante procedimientos quirúrgicos.
+La WATO EX-20 es un equipo biomédico de soporte vital diseñado para garantizar ventilación, oxigenación y administración controlada de anestesia durante procedimientos quirúrgicos [1], [2].
 
-El correcto funcionamiento de componentes como el vaporizador, válvula APL, absorbedor de CO₂ y ventilador mecánico resulta esencial para la seguridad del paciente y la estabilidad del procedimiento anestésico.
+El correcto funcionamiento del vaporizador, la válvula APL, el recipiente absorbente de CO₂, el fuelle y el sistema AGSS es esencial para mantener la seguridad del paciente.
 
-Asimismo, se evidenció la importancia de los sistemas de monitoreo y alarmas incorporados en las máquinas modernas de anestesia, los cuales permiten detectar oportunamente fallas relacionadas con presión, ventilación y concentración de oxígeno.
+También se identificó que el fuelle es el componente relacionado con el sistema de bombeo de la máquina. Este no corresponde a una bomba de infusión, sino a una bomba de desplazamiento positivo neumática tipo fuelle, encargada de desplazar gases hacia el paciente [1], [6], [7].
 
-Finalmente, el mantenimiento preventivo y las pruebas de verificación previas al uso son fundamentales para disminuir riesgos clínicos y garantizar el funcionamiento seguro de este tipo de equipos biomédicos críticos.
-
+Finalmente, el mantenimiento preventivo y las pruebas antes del uso permiten disminuir riesgos como hipoxia, hipercapnia, barotrauma, fallas ventilatorias y exposición del personal a gases anestésicos residuales [2], [4].
 
 ---
 
-# Referencias IEE
+# Referencias IEEE
+
 [1] I. Nicolas, “WATO Service Manual EX-20_30_35 ESP,” Scribd. https://es.scribd.com/document/513671819/WATO-Service-Manual-EX-20-30-35-Esp
 
 [2] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., “WATO EX-20/30/35 Service Manual,” 2009.
 
-[3] M. P. Dosch, The Anesthesia Machine. Philadelphia, USA: Elsevier Health Sciences, 2005.
+[3] M. P. Dosch, *The Anesthesia Machine*. Philadelphia, USA: Elsevier Health Sciences, 2005.
 
-[4] M. A. Sherwin and J. B. Eisenkraft, “Anesthesia hazards: What is the role of the anesthesia machine?,” International Anesthesiology Clinics, vol. 58, no. 1, pp. 27–31, 2020.
+[4] M. A. Sherwin and J. B. Eisenkraft, “Anesthesia hazards: What is the role of the anesthesia machine?,” *International Anesthesiology Clinics*, vol. 58, no. 1, pp. 27–31, 2020.
 
 [5] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., “WATO EX-20 Technical Specifications,” 2022.
 
+[6] E. J. Argüello-Prada, “Instrumentación Biomédica y Biosensores, Clase 12: Bombas de infusión,” Universidad Militar Nueva Granada, 2026.
 
+[7] U.S. Food and Drug Administration, “What Is an Infusion Pump?,” FDA, 2017. https://www.fda.gov/medical-devices/infusion-pumps/what-infusion-pump
 [1]: [https://es.scribd.com/document/513671819/WATO-Service-Manual-EX-20-30-35-Esp]
